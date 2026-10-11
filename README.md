@@ -4,6 +4,12 @@ A container image layer/bloat analyzer — Go's `dive` is the standard for
 "why is my Docker image so big," and there's no Rust equivalent as far as
 I'm aware.
 
+## Installation
+
+```sh
+cargo install --path .
+```
+
 ## Usage
 
 ```bash
